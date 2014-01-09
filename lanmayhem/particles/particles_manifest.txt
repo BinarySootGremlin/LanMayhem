@@ -1,0 +1,5 @@
+particles_manifest
+{
+	"file"		"particles/blood_impact.pcf"
+	"file"		"particles/rocket_fx.pcf"
+}
