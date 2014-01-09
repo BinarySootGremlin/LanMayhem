@@ -11,6 +11,8 @@ exec autoexec.cfg
 //
 stuffcmds
 
-hostname "Half-Life 2 Deathmatch"
+hostname "LanMayhem"
 
 mp_forcerespawn 0
+
+clear
