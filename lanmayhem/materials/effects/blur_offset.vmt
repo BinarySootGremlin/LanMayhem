@@ -1,0 +1,14 @@
+"Refract"
+{
+ 	"$model" 1
+ 	"$refractamount" ".24"
+ 	"$bluramount" "0"
+	"$scale" "[1 1]"
+ 	"$dudvmap" "effects/blur_offset"
+ 	"$normalmap" "effects/blur_offset_normal"
+	"$bumpframe" "0"
+	"$translucent" "1"
+	"$ignorez" "1"
+	"$forcerefract" 1
+	"$nofog" "1"
+}
