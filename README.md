@@ -12,7 +12,6 @@ Install:
 FAQ:
 
 Q: My game crashes when I try to start it with the error: "client.dll is a debug build"?
-
 A: Right click on the game inside your steam library and choose "properties" and in the properties "SET LAUNCH OPTIONS" and enter "-allowdebug" without the "".
 
 Licence notices:
