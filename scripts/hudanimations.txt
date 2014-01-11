@@ -638,3 +638,14 @@ event PoisonLoop
 {
 	RunEvent PoisonPulse 0.0
 }
+event HitMarkerShow
+{
+	Animate HudHitmarker Alpha 255 Linear 0.0 0.1
+	
+	RunEvent HitMarkerHide 0.4
+}
+
+event HitMarkerHide
+{
+	Animate HudHitmarker Alpha 0 Linear 0.1 0.3
+}

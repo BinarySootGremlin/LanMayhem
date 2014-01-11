@@ -374,6 +374,19 @@
 
 
 	//"wave" "player/jump.wav"
+	"rndwave"
+	{
+		"wave"	"player/pl_pain5.wav"
+	}
+}
+"Player.WallJump"
+{
+	"volume"    "VOL_NORM"
+	"pitch"     "PITCH_NORM"
+	"soundlevel"    "SNDLVL_NORM"
+
+
+	//"wave" "player/walljump.wav"
 }
 "Player.Die"
 {
