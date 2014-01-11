@@ -1568,8 +1568,8 @@
 "Grenade.Blackhole"
 {
 	"channel"		"CHAN_WEAPON"
-	"volume"		"0.95"
-	"soundlevel"  	"SNDLVL_70dB"
+	"volume"		"1.0"
+	"soundlevel"  	"SNDLVL_NORM"
 	"rndwave"
 	{
 		"wave"	"weapons/fx/charge1.wav"
