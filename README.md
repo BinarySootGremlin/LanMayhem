@@ -5,9 +5,10 @@ Quake style game on source engine.
 
 Install:
 
-1. Copy the folder "LanMayhem" into your "steamapps/sourcemods" folder
-2. Restart steam
-3. Profit
+1. Create a folder called "LanMayhem" in your "steamapps/sourcemods" folder.
+2. Copy the files from github into your "LanMayhem" folder.
+3. Restart steam.
+4. Profit.
 
 -----------------------------------------------
 
